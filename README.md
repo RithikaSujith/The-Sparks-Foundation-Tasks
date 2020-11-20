@@ -5,6 +5,6 @@
 ## Task_2-Prediction using Unsupervised ML-K-means Clustering
 ### Predicting the optimum number of clusters and representing it visually.
 ### Link: https://youtu.be/pseJo0R35GE
-## Task_3-Prediction using Decision Tree Algorithm
+## Task_6-Prediction using Decision Tree Algorithm
 ### Create the decision tree classifier and visualize it graphically.
 ### Link: https://youtu.be/6WMVUgr9jns
